@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hijri Holiday Calendar 2027</string>
+    <string name="notification_channel_holidays_name">National Holiday Reminders</string>
+    <string name="notification_channel_holidays_desc">Local reminders sent one day before upcoming national holidays in your selected country.</string>
+</resources>

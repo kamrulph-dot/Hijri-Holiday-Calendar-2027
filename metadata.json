@@ -1,0 +1,6 @@
+{
+  "name": "Hijri Holiday Calendar 2027",
+  "description": "Hijri and Gregorian calendar for all 22 Arab countries with public holidays, 1-day-before holiday reminders, Islamic events, Ramadan countdowns, and date converter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
